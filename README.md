@@ -1,13 +1,13 @@
-# Python4Kids
+# Python4Juniors
 
-The aim of this project is to create a remote repository available at the time of giving workshops to kids at middle and high schools from Puerto Rico and to maintain a global version for their future reference. It includes a series of basic Python scripts that cover the essential tools for learning how to program and how to think like a programmer.
+The aim of this project is to create a remote repository available at the time of giving workshops to juniors at middle and high schools from Puerto Rico and to maintain a global version for their future reference. It includes a series of basic Python scripts that cover the essential tools for learning how to program and how to think like a programmer.
 
 ## Getting Started
 
 To start using these scripts you will need to clone the repository by running:
 
 ```
-git clone https://github.com/jordancaraballo/python4Kids
+git clone https://github.com/jordancaraballo/python4Juniors
 ```
 
 Once you have this done, you can use any text editor or Python IDE to run the scripts. To know about how to install or how to run any of these scripts you can visit https://wiki.python.org/moin/PythonEditors. For the purpose of this workshop students will be guided on how to run Python and dependencies like text editors will be already installed in the systems.
