@@ -1,6 +1,6 @@
 # Python4Kids
 
-The aim of this project is to create a remote repository available at the time of giving workshops to children at elementary schools from Puerto Rico and to maintain a global version for their future reference. It includes a series of basic Python scripts that cover the essential tools for learning how to program and how to think like a programmer. This project is sponsored by the Partnership for Research and Education Program (PREM) from the University of Puerto Rico at Humacao.
+The aim of this project is to create a remote repository available at the time of giving workshops to kids at middle and high schools from Puerto Rico and to maintain a global version for their future reference. It includes a series of basic Python scripts that cover the essential tools for learning how to program and how to think like a programmer.
 
 ## Getting Started
 
@@ -20,12 +20,14 @@ The majority of the scripts were written individually without no dependency betw
 python ./scriptName.py
 ```
 
-## Scripts Tree
+## Latest Workshops
+Experimenta Con PREM   - 20 high school students
+Petra Mercado Bougart  - 25 high school students
+Introduction to Python - 20 high school students
+Interdisciplinary Programming - 10 Undergraduate students
 
-```
-Lets Print - printing.py
-Scripts in Progress...
-```
+## Need a Workshop for Your School?
+We are open to voluntarily teach programming in the Languages of Python, Java, C++, Perl, and Web (HTML, PHP, CSS, JavaScript). Additionally we offer Linux and Unix workshops at any Level.
 
 ## Authors
 
