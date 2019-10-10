@@ -9,18 +9,18 @@ Con este programa se cubren los topicos de operaciones aritmetics, input de usua
 """
 # Asking the user for his grade
 # Preguntarle al usuario por su nota
-result = raw_input("Ingrese su nota / Enter your grade: ")
+result = input("Ingrese su nota / Enter your grade: ")
 
 # Asking the user for his age
 # Preguntarle al usuario por su edad
-value = raw_input("Ingrese el valor del examen / Enter the test value: ")
+value = input("Ingrese el valor del examen / Enter the test value: ")
 
 # Lets calculate the score
 percentage = (float(result) / float(value)) * 100
 
 # Print a sentence with both variables
 # Imprimir oracion con ambas variables
-print "Su resultado en el examen fue de " + str(percentage) + "%."
+print ("Su resultado en el examen fue de " + str(percentage) + "%.")
 
 ## Assignments
 ## 1. How to calculate many test? 
@@ -41,7 +41,7 @@ for i in range(len(scores)):
     per = (float(scores[i]) / float(values[i])) * 100
     grades.append(per)
 
-print grades
+print (grades)
 
 ## Think about...
 ## How could I save all my scores in one file?

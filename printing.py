@@ -8,18 +8,21 @@ ambos en el terminal. El program tiene de entrada el nombre y la edad, y de sali
 oracion con el nombre y la edad del usuario.
 Con este programa se cubren los conceptos de entrada del usuario, imprimir, y concatenar palabras.
 """
+# For the tutorial
+print ("Hello World!")
+
 # Asking the user for his name
 # Preguntarle al usuario por su nombre
-name = raw_input("Ingrese su nombre / Enter your name: ")
+name = input("Ingrese su nombre / Enter your name: ")
 
 # Asking the user for his age
 # Preguntarle al usuario por su edad
-age = raw_input("Ingrese su edad / Enter you age: ")
+age = input("Ingrese su edad / Enter you age: ")
 
 # Print a sentence with both variables
 # Imprimir oracion con ambas variables
-print "\nHola " + name + ", es un placer conocerte! Tienes " + str(20 - int(age)) + " a/os mas que yo!"
-print "Hey "    + name + ", nice to meet you! You are "      + str(20 - int(age)) + " older than me!\n"
+print ("\nHola " + name + ", es un placer conocerte! Tienes " + str(21 - int(age)) + " a/os mas que yo!")
+print ("Hey "    + name + ", nice to meet you! You are "      + str(21 - int(age)) + " older than me!\n")
 
 ## Assignments
 ## 1. How old is the computer saying it is?
