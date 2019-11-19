@@ -3,11 +3,19 @@
 Purpose: Script to Calculate GPA. Python4Kids tutorials.
 Author: Jordan A Caraballo Vega
 """
-import csv
 
+# Import libraries
+import csv, sys
+
+# Get values from user input and validate
+if len(sys.argv) == 1:
+    sys.exit("Make sure to run the program as: python gpaCalculator $gradesfilename")
+else:
+    gradesFilename = sys.argv[1]
+
+# Setup counters
 credTotal      = 0 # define count for total of credits
 gradesTotal    = 0 # define count for total of grades
-gradesFilename = 'Grades.csv' # define grades filename
 
 print ("Hey, I am Calculating your GPA...")
 
