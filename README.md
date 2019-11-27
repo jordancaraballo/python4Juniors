@@ -21,6 +21,7 @@ python ./scriptName.py
 ```
 
 ## Latest Workshops
+Programming: A new way of thinking - 25 high school students
 Experimenta Con PREM   - 20 high school students
 Petra Mercado Bougart  - 25 high school students
 Introduction to Python - 20 high school students
